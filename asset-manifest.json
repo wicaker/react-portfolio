@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.b6a850ee.chunk.css",
-  "main.js": "/static/js/main.04bb2527.chunk.js",
-  "main.js.map": "/static/js/main.04bb2527.chunk.js.map",
+  "main.css": "/static/css/main.027e3b7a.chunk.css",
+  "main.js": "/static/js/main.e2433ad2.chunk.js",
+  "main.js.map": "/static/js/main.e2433ad2.chunk.js.map",
   "static/js/1.13fe13c8.chunk.js": "/static/js/1.13fe13c8.chunk.js",
   "static/js/1.13fe13c8.chunk.js.map": "/static/js/1.13fe13c8.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -17,8 +17,8 @@
   "static/media/coming-soon.jpg": "/static/media/coming-soon.626dc062.jpg",
   "static/media/App.css": "/static/media/coding.b28ecec9.png",
   "static/media/profile.jpg": "/static/media/profile.08024bd3.jpg",
-  "static/css/main.b6a850ee.chunk.css.map": "/static/css/main.b6a850ee.chunk.css.map",
+  "static/css/main.027e3b7a.chunk.css.map": "/static/css/main.027e3b7a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.1217edae08d943fb3bebfdfbd2c99f74.js": "/precache-manifest.1217edae08d943fb3bebfdfbd2c99f74.js",
+  "precache-manifest.48a22d57f7a347c963acb769270e5455.js": "/precache-manifest.48a22d57f7a347c963acb769270e5455.js",
   "service-worker.js": "/service-worker.js"
 }
