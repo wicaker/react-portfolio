@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/python.0ddd3e7e.png"
   },
   {
-    "revision": "412c122a3e0f32abc285",
-    "url": "/static/css/main.7db3fc62.chunk.css"
+    "revision": "b9eac54029f705a6c89d",
+    "url": "/static/css/main.2e11a6f8.chunk.css"
   },
   {
-    "revision": "3b026318c77925f828ba",
-    "url": "/static/js/1.3b026318.chunk.js"
+    "revision": "f45c6b38841a1bfb1c7b",
+    "url": "/static/js/1.f45c6b38.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/redux.d18d2a74.png"
   },
   {
-    "revision": "412c122a3e0f32abc285",
-    "url": "/static/js/main.412c122a.chunk.js"
+    "revision": "b9eac54029f705a6c89d",
+    "url": "/static/js/main.b9eac540.chunk.js"
   },
   {
     "revision": "a717eafa290bf333c4dd1c86076c5b9e",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/static/media/coding.b28ecec9.png"
   },
   {
-    "revision": "97689e986cb229edd2f7fa9310901a56",
+    "revision": "234a49b65819dbed28663a07ed537818",
     "url": "/index.html"
   }
 ];
